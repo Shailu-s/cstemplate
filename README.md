@@ -1,0 +1,2 @@
+# cstemplate
+cosmwasm template code
